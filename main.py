@@ -1,5 +1,5 @@
 from src.files.finder import Finder
-from src.files.lib.list import list_files_recursive
+from src.files.utils.list import list_files_recursive
 
 
 if __name__ == "__main__":
